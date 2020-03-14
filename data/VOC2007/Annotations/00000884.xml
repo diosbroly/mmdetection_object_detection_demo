@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>00000884.jpg</filename>
+	<path>C:\Users\alanb\Desktop\PATENTES\patentesDataSet\images\00000884.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>558</width>
+		<height>395</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Patente Vieja</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>267</xmin>
+			<ymin>109</ymin>
+			<xmax>330</xmax>
+			<ymax>140</ymax>
+		</bndbox>
+	</object>
+</annotation>

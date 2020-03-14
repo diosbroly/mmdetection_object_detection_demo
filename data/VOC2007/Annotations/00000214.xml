@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>00000214.jpg</filename>
+	<path>C:\Users\alanb\Desktop\PATENTES\patentesDataSet\images\00000214.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>558</width>
+		<height>558</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Patente Nueva</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>36</xmin>
+			<ymin>252</ymin>
+			<xmax>189</xmax>
+			<ymax>353</ymax>
+		</bndbox>
+	</object>
+</annotation>
